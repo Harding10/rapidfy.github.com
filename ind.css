@@ -98,12 +98,18 @@ body, h1, p {
     gap: 20px;
 }
 .navbar .nav-links a{
-    color: #f4f4f9;
+    color: yellow;
 text-decoration:none;
     font-size: 18px;
     font-weight: 900;
+     border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 2px;
     }
     .navbar .nav-links a:hover{
+         border: 2px solid #030433;
+        background-color:wheat;
         color: red;
     }
 button{
@@ -115,7 +121,17 @@ top:10%;
    padding: 10px 20px;
    box-shadow: 0px 3px 10px #030433;
 
+cursor: pointer; /* Changer le curseur au survol */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
+
+button:hover{
+
+    transform: scale(1.2); /* Zoom de 20% */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre pour un effet de profondeur */
+   
+}
+
 button a{
     color: #030433;
     text-decoration: none;
