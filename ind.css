@@ -23,6 +23,8 @@ header {
     text-align: center;
     padding: 40px 20px;
     position: relative;
+    width: 100vw;
+    margin: 0;
 }
 
 header::before {
