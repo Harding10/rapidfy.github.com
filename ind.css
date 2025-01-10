@@ -135,6 +135,27 @@ button a {
 button:hover {
     background-color: var(--color-tertiary);
 }
+.span1{
+    color:yellow;
+}
+.span2{
+    color:rgb(221, 149, 216);
+}
+.span3{
+    color:rgb(60, 120, 250) ;
+}
+.span4{
+    color: white;
+}
+.span5{
+    color:rgb(225, 118, 255) ;
+}
+.span6{
+ color:rgb(250, 139, 139) ;
+ }
+ .span7{
+    color:rgb(134, 248, 147) ;
+}
 
 /* Responsive Styles */
 
