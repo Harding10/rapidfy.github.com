@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harding10.github.io/rapidify.github.com/sitemap.xml
