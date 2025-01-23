@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     <url>
+       <loc> https://harding10.github.io/rapidfy.github.com/</loc>
+       <lastmod>2024-01-23</lastmod>
+     </url>
+     <!-- Ajoute d'autres pages si tu en as -->
+     <url>
+       <loc>https://harding10.github.io/rapidfy.github.com/principal.html</loc>
+       <lastmod>2024-01-23</lastmod>
+     </url>
+   </urlset>
